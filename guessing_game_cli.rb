@@ -11,6 +11,6 @@ def run_guessing_game
     puts "Goodbye!"
   else
     puts "Invalid input "
-  end 
-
+  end
 end
+run_guessing_game
